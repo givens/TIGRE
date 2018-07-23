@@ -1,9 +1,14 @@
 
+*.bat
+*.yaml
+*.mexw64
+
 so.*
 *.png
 *.jpg
 *.bmp
 *.tiff
+*.gif
 ## Matlab ignore
 
 *.asv
